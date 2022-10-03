@@ -1,0 +1,19 @@
+{
+	"name": "fainui",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"dev": "astro dev",
+		"test": "vitest",
+		"build": "astro build"
+	},
+	"author": "Zihan (me@zihan.ga)",
+	"license": "MIT",
+	"dependencies": {
+		"astro": "^1.4.2",
+		"prettier": "^2.7.1",
+		"prettier-plugin-astro": "^0.5.5",
+		"vite": "^3.1.4",
+		"vitest": "^0.23.4"
+	}
+}
